@@ -1,0 +1,15 @@
+C:\Users\janib\source\repos\H_Plus_Sports\H_Plus_Sports\bin\Release\netcoreapp2.1\H_Plus_Sports.deps.json
+C:\Users\janib\source\repos\H_Plus_Sports\H_Plus_Sports\bin\Release\netcoreapp2.1\H_Plus_Sports.runtimeconfig.json
+C:\Users\janib\source\repos\H_Plus_Sports\H_Plus_Sports\bin\Release\netcoreapp2.1\H_Plus_Sports.runtimeconfig.dev.json
+C:\Users\janib\source\repos\H_Plus_Sports\H_Plus_Sports\bin\Release\netcoreapp2.1\H_Plus_Sports.dll
+C:\Users\janib\source\repos\H_Plus_Sports\H_Plus_Sports\bin\Release\netcoreapp2.1\H_Plus_Sports.pdb
+C:\Users\janib\source\repos\H_Plus_Sports\H_Plus_Sports\obj\Release\netcoreapp2.1\H_Plus_Sports.csprojAssemblyReference.cache
+C:\Users\janib\source\repos\H_Plus_Sports\H_Plus_Sports\obj\Release\netcoreapp2.1\H_Plus_Sports.csproj.CoreCompileInputs.cache
+C:\Users\janib\source\repos\H_Plus_Sports\H_Plus_Sports\obj\Release\netcoreapp2.1\H_Plus_Sports.RazorAssemblyInfo.cache
+C:\Users\janib\source\repos\H_Plus_Sports\H_Plus_Sports\obj\Release\netcoreapp2.1\H_Plus_Sports.RazorAssemblyInfo.cs
+C:\Users\janib\source\repos\H_Plus_Sports\H_Plus_Sports\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\janib\source\repos\H_Plus_Sports\H_Plus_Sports\obj\Release\netcoreapp2.1\H_Plus_Sports.AssemblyInfoInputs.cache
+C:\Users\janib\source\repos\H_Plus_Sports\H_Plus_Sports\obj\Release\netcoreapp2.1\H_Plus_Sports.AssemblyInfo.cs
+C:\Users\janib\source\repos\H_Plus_Sports\H_Plus_Sports\obj\Release\netcoreapp2.1\H_Plus_Sports.RazorTargetAssemblyInfo.cache
+C:\Users\janib\source\repos\H_Plus_Sports\H_Plus_Sports\obj\Release\netcoreapp2.1\H_Plus_Sports.dll
+C:\Users\janib\source\repos\H_Plus_Sports\H_Plus_Sports\obj\Release\netcoreapp2.1\H_Plus_Sports.pdb
