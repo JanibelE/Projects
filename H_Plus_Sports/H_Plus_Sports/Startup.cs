@@ -29,7 +29,7 @@ namespace H_Plus_Sports
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            var connection = "Server=tcp:coworkingdatab.database.windows.net,1433;Initial Catalog=H_Plus_Sports;Persist Security Info=False;User ID=coworkinguser;Password=A1B2C3D4.;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+            var connection = "Server=tcp:coworkingdatab.database.windows.net,1433;Initial Catalog=H_Plus_Sports;Persist Security Info=False;User ID="";Password="".;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
             services.AddDbContext<H_Plus_SportsContext>(options => options.UseSqlServer(connection));
 
             services.AddScoped<ICustomerRepository, CustomerRepository>();
